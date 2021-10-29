@@ -1,7 +1,7 @@
 # Projeto-nlw-heat
-- Criditos:
+#### Creditos:
 - Projeto desenvolvido na nlw heat 2021:
-- Instrutores: 
+#### Instrutores: 
 - Mayk Brito / Jakeliny Gracielly
 - https://app.rocketseat.com.br/node/mission-origin-heat
 
